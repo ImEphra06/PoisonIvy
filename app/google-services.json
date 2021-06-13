@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743693328679",
+    "project_id": "lonkuta-natureo",
+    "storage_bucket": "lonkuta-natureo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743693328679:android:683bd58454ffd642d9c902",
+        "android_client_info": {
+          "package_name": "fr.imephra.lonkuta_natureo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743693328679-pk9vh566ufgomld928u26ptpjmsoh89n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe4eEYjU8xFGTgVhBfGFJ8YGhklo0iudo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743693328679-pk9vh566ufgomld928u26ptpjmsoh89n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
